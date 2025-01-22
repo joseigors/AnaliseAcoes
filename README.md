@@ -30,10 +30,10 @@ ELET3, por outro lado, apresenta um desempenho pior em termos de média dos reto
 Para rodar o projeto localmente, você precisará de um ambiente Python com as bibliotecas necessárias. Siga os passos abaixo:
 
 Clone o repositório:
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
+git clone [https://github.com/seu_usuario/nome_do_repositorio.git](https://github.com/joseigors/AnaliseAcoes.git)
 
 Navegue até o diretório do projeto:
-cd nome_do_repositorio
+cd AnaliseAcoes
 
 Instale as dependências:
 pip install -r requirements.txt
